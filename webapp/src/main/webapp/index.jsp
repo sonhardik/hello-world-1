@@ -1,4 +1,4 @@
-<form action="action_page.php">
+<form="action_page.php">
   <div class="container">
     <h1>Please Register for Devops Training below</h1>
     <p>Please fill in this form to create an account.</p>
@@ -9,7 +9,7 @@
     <br>
     
     <label for="mobile"><b>Enter Cell:</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter cell number" name="cell" id="cell" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
